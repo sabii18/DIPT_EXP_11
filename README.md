@@ -79,7 +79,8 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-<img width="230" height="162" alt="image" src="https://github.com/user-attachments/assets/514238c9-5bd8-4f68-b7b4-dafbd1c0c44a" />
+<img width="252" height="283" alt="image" src="https://github.com/user-attachments/assets/0cb9b05a-8b6b-4ec9-b30c-a6bb537fadd9" />
+
 
 
 ## Result

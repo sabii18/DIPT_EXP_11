@@ -29,7 +29,7 @@ print the characters and its huffmancode.
 
 ``` Python
 # Get the input String
-string ="SABEESH"
+string ="huffman coding"
 
 # Create tree nodes
 class NodeTree(object):
